@@ -1,2 +1,2 @@
-# movie_recomadation
-python project  for movie recommendation using jupyter notebook
+# Movie Recommendation
+A Movie recommendation engine using python and pandas library. 
